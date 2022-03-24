@@ -18,6 +18,7 @@ p {
 
 #title {
   background-color: #ff4c68;
+  
 }
 
 .container-fluid {
@@ -96,7 +97,10 @@ p {
     padding: 1.4% 1.7;
   
   }
+
 }
+
+
 
 
 /* Download Buttons */
@@ -164,7 +168,7 @@ p {
 /* Pricing Section */
 
 #pricing{
-  padding: 100px;
+  padding: 10%;
   text-align: center;
 }
 
